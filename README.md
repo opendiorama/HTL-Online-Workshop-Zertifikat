@@ -19,7 +19,9 @@ Grundgerüst Upload!!!
 
 # Workshop Zertifikat Generator
 
-Dieses Projekt ist ein einfacher Zertifikatgenerator für den erfolgreichen Abschluss eines Workshops. Mit diesem Tool können Benutzer ein personalisiertes Zertifikat erstellen, indem sie ihre Lieblingsfarbe wählen und dann auf einen Button klicken, um das Zertifikat zu generieren.
+Dieses Projekt ist ein einfacher Zertifikatgenerator für den erfolgreichen Abschluss eines Workshops. Da es vermutlich mehr als einen Typ Workshop gibt benötigen wir eventuell zwei drei Titel und Designe Schwerpunkte.
+
+Mit diesem Tool können Benutzer ein personalisiertes Zertifikat erstellen, indem sie ihre Lieblingsfarbe wählen und dann auf einen Button klicken, um das Zertifikat zu generieren.
 
 ## Funktionen
 
