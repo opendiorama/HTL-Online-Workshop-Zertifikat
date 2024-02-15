@@ -11,9 +11,20 @@ Dachte mir, ich starte mal ein kollaborativen Workspace mit GIT. Kenne mich zwar
 
 Was bisher geschah?:
 
-Besprechung Designe: Was muss drin stehen? 
+Besprechung Designe: 
+
+- Wie soll was aussehen? 
 
 Vorschläge: 
+
+-
+
+Was muss auf einem Zertifikat alles drauf sein? 
+
+- Branding HTL
+- Workshop Titel
+- Datum/Zeit
+- Name 
 
 Grundgerüst Upload!!!
 
@@ -43,8 +54,8 @@ Mit diesem Tool können Benutzer ein personalisiertes Zertifikat erstellen, inde
 
 ## Voraussetzungen
 
-Soll als PDF Printbar sein 
-Auf Mobilgeräten funtionieren
+- Soll als PDF Printbar sein 
+- Auf Mobilgeräten funtionieren
 ...
 
 ## Hinweise
