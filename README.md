@@ -43,7 +43,7 @@ Mit diesem Tool können Benutzer ein personalisiertes Zertifikat erstellen, inde
 
 1. Öffnen Sie die `Mainpage.html`-Datei in einem Webbrowser Ihrer Wahl.
 2. Wählen Sie Ihre Lieblingsfarbe aus der Farbauswahl aus.
-3. Klicken Sie auf den "Zertifikat generieren" Button, um Ihr personalisiertes Zertifikat zu erhalten.
+3. Klicken Sie auf den "Zertifikat generieren" Button, um Ihr personalisiertes Zertifikat zu erhalten. // Eventuell kann user Basis Desgine Vorlage wählen?
 
 ## Dateistruktur
 
