@@ -1,5 +1,3 @@
-Gerne! Hier ist ein Beispiel für ein README-Dokument für Ihr Projekt:
-
 ---
 
 # Workshop Zertifikat Generator
