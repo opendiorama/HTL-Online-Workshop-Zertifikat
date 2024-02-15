@@ -3,9 +3,9 @@
 
 Dachte mir, ich starte mal ein kollaborativen Workspace mit GIT. Kenne mich zwar nicht so aus - but practice, makes better:) 
 
-* GitHub ist ja praktisch dazu da, kollaboratives Arbeiten speziell für Softwareprojekte zu erleichtern 
-
-**Es gibt unterhalb des "Projektbrainstorm" eine kleine Übersicht über die wichtigsten GitHub Keywords sowie einige wesentlichen Funktionen** 
+* GitHub ist ja praktisch dazu da, kollaboratives Arbeiten speziell für Softwareprojekte zu erleichtern
+* Ihr könnt im Wiki ein kleine Collection von Grundlagen anschauen:) Falls das wer braucht.) Have Fun Guys::)
+  
 
 # Next Week Abgabe?!)
 
